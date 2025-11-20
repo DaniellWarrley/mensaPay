@@ -50,6 +50,7 @@ const Form = styled.form`
         color: #9CA3AF;
         border: 1px solid #2E2E2E;
         border-radius: 3px;
+        outline: 0;
     }
 `
 
