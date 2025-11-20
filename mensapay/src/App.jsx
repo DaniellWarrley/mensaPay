@@ -81,6 +81,7 @@ const InputWrapper = styled.div`
     color: #9CA3AF;
     border: 1px solid ${props => props.hasError ? '#EF4444' : '#2E2E2E'};
     border-radius: 3px;
+    outline: 0;
   }
   span{
     margin-bottom: 5px;
