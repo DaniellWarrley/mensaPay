@@ -115,6 +115,7 @@ const Submit = styled.div`
   }
   span{
     margin-bottom: 5px;
+    margin-top: 5px;
 
     color: #519872;
     cursor: pointer;
