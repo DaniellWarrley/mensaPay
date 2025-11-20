@@ -91,7 +91,7 @@ const FloatingButton = styled.button`
 
     @media (max-width: 768px) {
         right: 20px;
-        bottom: 90px; 
+        bottom: 80px; 
         padding: 12px 18px;
     }
 `
