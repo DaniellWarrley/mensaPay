@@ -75,7 +75,7 @@ const InputWrapper = styled.div`
   flex-direction: column;
 
   input{
-    padding: 7px;
+    padding: 10px;
 
     background-color: #1F1F1F;
     color: #9CA3AF;
