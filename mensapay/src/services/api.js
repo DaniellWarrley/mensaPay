@@ -1,4 +1,4 @@
-const URL_BASE = 'http://localhost:3000/api/'
+const URL_BASE = 'https://mensapayserver.onrender.com/api/'
 
 export async function apiFetch(endPoint, {method = 'GET', body, headers = {}, token} = {}){
     const config = {
