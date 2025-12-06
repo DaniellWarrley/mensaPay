@@ -12,7 +12,7 @@ const Container = styled.div`
     top: 0;
     left: 0;
 
-    display: ${props => props.isOpen ? 'block' : 'none'};display: ${props => props.isOpen ? 'block' : 'none'};
+    display: ${props => props.isOpen ? 'block' : 'none'};
 
     height: 100vh;
     width: 100vw;
